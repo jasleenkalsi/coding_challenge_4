@@ -1,1 +1,2 @@
-node_modules
+echo "challenge-4-42add-firebase-adminsdk-fbsvc-a58ec4f644.json" >> .gitignore
+
