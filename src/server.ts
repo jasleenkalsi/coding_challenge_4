@@ -29,4 +29,4 @@ router.get("/users/:id", authenticateUser, authorizeRole("admin"), async (req, r
   }
 });
 
-export default router;
+export default router;
